@@ -60,7 +60,7 @@ hi Label           guifg=#E6DB74               gui=none
 hi Macro           guifg=#C4BE89               gui=italic
 hi SpecialKey      guifg=#66D9EF               gui=italic
 
-hi MatchParen      guifg=#000000 guibg=#FD971F gui=bold
+hi MatchParen      guifg=#9BEC13 guibg=#6413EC gui=bold
 hi ModeMsg         guifg=#E6DB74
 hi MoreMsg         guifg=#E6DB74
 hi Operator        guifg=#F92672
@@ -101,8 +101,8 @@ hi Type            guifg=#66D9EF               gui=none
 hi Underlined      guifg=#808080               gui=underline
 
 hi VertSplit       guifg=#808080 guibg=#080808 gui=bold
-hi VisualNOS                     guibg=#403D3D
-hi Visual                        guibg=#403D3D
+hi VisualNOS                     guibg=#6C6F6D
+hi Visual                        guibg=#6C6F6D
 hi WarningMsg      guifg=#FFFFFF guibg=#333333 gui=bold
 hi WildMenu        guifg=#66D9EF guibg=#000000
 
@@ -121,7 +121,7 @@ if s:molokai_original == 1
    hi SpecialKey      guifg=#75715E
 else
    hi Normal          guifg=#F8F8F2 guibg=#1B1D1E
-   hi Comment         guifg=#7E8E91
+   hi Comment         guifg=#8E9C9E
    hi CursorLine                    guibg=#293739
    hi CursorLineNr    guifg=#FD971F               gui=none
    hi CursorColumn                  guibg=#293739
@@ -274,3 +274,4 @@ end
 " Must be at the end, because of ctermbg=234 bug.
 " https://groups.google.com/forum/#!msg/vim_dev/afPqwAFNdrU/nqh6tOM87QUJ
 set background=dark
+
