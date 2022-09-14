@@ -34,7 +34,7 @@ hi Constant        guifg=#B48BFF               gui=bold
 hi Cursor          guifg=#000000 guibg=#F8F8F0
 hi Debug           guifg=#BCA3A3               gui=bold
 hi Define          guifg=#66D9EF
-hi Delimiter       guifg=#8F8F8F
+hi Delimiter       guifg=#A7A7A7
 hi DiffAdd                       guibg=#13354A
 hi DiffChange      guifg=#89807D guibg=#4C4745
 hi DiffDelete      guifg=#960050 guibg=#1E0010
@@ -60,7 +60,7 @@ hi Label           guifg=#E6DB74               gui=none
 hi Macro           guifg=#C4BE89               gui=italic
 hi SpecialKey      guifg=#66D9EF               gui=italic
 
-hi MatchParen      guifg=#9BEC13 guibg=#6413EC gui=bold
+hi MatchParen      guifg=#8952e5 guibg=#9BEC13 gui=bold
 hi ModeMsg         guifg=#E6DB74
 hi MoreMsg         guifg=#E6DB74
 hi Operator        guifg=#F92672
