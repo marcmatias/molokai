@@ -48,8 +48,8 @@ hi Error           guifg=#E6DB74 guibg=#1E0010
 hi ErrorMsg        guifg=#F92672 guibg=#232526 gui=bold
 hi Exception       guifg=#A6E22E               gui=bold
 hi Float           guifg=#B48BFF
-hi FoldColumn      guifg=#617579 guibg=#000000
-hi Folded          guifg=#617579 guibg=#000000
+hi FoldColumn      guifg=#8FACB2 guibg=#000000
+hi Folded          guifg=#8FACB2 guibg=#000000
 hi Function        guifg=#A6E22E
 hi Identifier      guifg=#FD971F
 hi Ignore          guifg=#808080 guibg=bg
@@ -128,7 +128,7 @@ else
    hi LineNr          guifg=#617579 guibg=#232526
    hi NonText         guifg=#617579
    hi Normal          guifg=#F8F8F2 guibg=#232627
-   hi SpecialKey      guifg=#617579
+   hi SpecialKey      guifg=#8FACB2
 end
 
 "
