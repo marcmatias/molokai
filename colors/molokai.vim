@@ -52,7 +52,7 @@ hi FoldColumn      guifg=#8FACB2 guibg=#000000
 hi Folded          guifg=#8FACB2 guibg=#000000
 hi Function        guifg=#A6E22E
 hi Identifier      guifg=#FD971F
-hi Ignore          guifg=#808080 guibg=bg
+hi Ignore          guifg=#A8A8A8 guibg=bg
 hi IncSearch       guifg=#C4BE89 guibg=#000000
 
 hi Keyword         guifg=#F92672               gui=bold
@@ -68,7 +68,7 @@ hi Operator        guifg=#F92672
 " complete menu
 hi Pmenu           guifg=#66D9EF guibg=#000000
 hi PmenuSbar                     guibg=#080808
-hi PmenuSel                      guibg=#808080
+hi PmenuSel                      guibg=#A8A8A8
 hi PmenuThumb      guifg=#66D9EF
 
 hi PreCondit       guifg=#A6E22E               gui=bold
@@ -89,7 +89,7 @@ if has("spell")
 endif
 hi Statement       guifg=#F92672               gui=bold
 hi StatusLine      guifg=#455354 guibg=fg
-hi StatusLineNC    guifg=#808080 guibg=#080808
+hi StatusLineNC    guifg=#A8A8A8 guibg=#080808
 hi StorageClass    guifg=#FD971F               gui=italic
 hi Structure       guifg=#66D9EF
 hi Tag             guifg=#F92672               gui=italic
@@ -98,15 +98,15 @@ hi Todo            guifg=#FFFFFF guibg=bg      gui=bold
 
 hi Type            guifg=#66D9EF               gui=none
 hi Typedef         guifg=#66D9EF
-hi Underlined      guifg=#808080               gui=underline
+hi Underlined      guifg=#A8A8A8               gui=underline
 
-hi VertSplit       guifg=#808080 guibg=#080808 gui=bold
+hi VertSplit       guifg=#A8A8A8 guibg=#080808 gui=bold
 hi Visual                        guibg=#4913EC
 hi VisualNOS                     guibg=#4913EC
 hi WarningMsg      guifg=#FFFFFF guibg=#333333 gui=bold
 hi WildMenu        guifg=#66D9EF guibg=#000000
 
-hi TabLine         guibg=#232627 guifg=#808080 gui=none
+hi TabLine         guibg=#232627 guifg=#A8A8A8 gui=none
 hi TabLineFill     guifg=#232627 guibg=#232627
 
 if s:molokai_original == 1
