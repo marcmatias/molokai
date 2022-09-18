@@ -60,7 +60,7 @@ hi Label           guifg=#E6DB74               gui=none
 hi Macro           guifg=#C4BE89               gui=italic
 hi SpecialKey      guifg=#66D9EF               gui=italic
 
-hi MatchParen      guifg=#8952e5 guibg=#9BEC13 gui=bold
+hi MatchParen      guifg=#9BEC13 guibg=#6413EC gui=bold
 hi ModeMsg         guifg=#E6DB74
 hi MoreMsg         guifg=#E6DB74
 hi Operator        guifg=#F92672
@@ -124,7 +124,7 @@ else
    hi Comment         guifg=#8E9C9E
    hi CursorColumn                  guibg=#293739
    hi CursorLine                    guibg=#293739
-   hi CursorLineNr    guifg=#FD971F               gui=none
+   hi CursorLineNr    guifg=#FFFFFF               gui=none
    hi LineNr          guifg=#617579 guibg=#232526
    hi NonText         guifg=#617579
    hi Normal          guifg=#F8F8F2 guibg=#232627
