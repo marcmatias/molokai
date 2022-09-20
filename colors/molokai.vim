@@ -68,7 +68,7 @@ hi Operator        guifg=#F92672
 " complete menu
 hi Pmenu           guifg=#66D9EF guibg=#000000
 hi PmenuSbar                     guibg=#080808
-hi PmenuSel                      guibg=#A8A8A8
+hi PmenuSel                      guibg=#293739
 hi PmenuThumb      guifg=#66D9EF
 
 hi PreCondit       guifg=#A6E22E               gui=bold
